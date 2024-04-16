@@ -3,4 +3,4 @@ Conversational Recommendation Systems" published at The 47th International ACM S
 
 
 
-To be updated.
+Currently I am actively organizing the experiments code and data. Repo is to be updated.
