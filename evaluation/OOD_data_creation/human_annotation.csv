@@ -1,0 +1,670 @@
+﻿,recommend_sentence,annotation,labels,type,WrongTime
+303,I love Napoleon dynamite,1,7,personal_opinion,30
+371,I don't think there is a nicholas sparks movie you have not seen Lol.,1,9,rephrase_preference,30
+403,ok .. If it is the story of survival that you liked,1,9,rephrase_preference,30
+420,I have not seen Peter Rabbit (2018) I will have to add that one to my must watch list.,1,10,self_modeling,30
+421,I'll check out Groundhog Day  (1993) and American Pie  (1999) sometimes,1,10,self_modeling,30
+631,i could recommend you too American Pie 2 (2001),1,2,encouragement,30
+642,"Yes, I highly suggest Pineapple Express  (2008) !",1,2,encouragement,30
+741,how about House of 1000 Corpses (2003),1,5,opinion_inquiry,30
+747,How about the Sixth Sense?,1,5,opinion_inquiry,30
+760,Do you like Pineapple Express  (2008) ?,1,5,opinion_inquiry,30
+808,I watched it the other night. I forgot how much I liked it!,1,6,personal_experience,30
+827,i really liked it,1,7,personal_opinion,30
+922,There are. But of course you don't care for superhero films.,1,9,rephrase_preference,30
+923,ok you meant no to thrillers completely,1,9,rephrase_preference,30
+958,Oh wow ! I have to check it out for sure then,1,10,self_modeling,30
+991,Those are great movies,1,11,similarity,30
+997,"Cool. Maybe I helped. Yes, I love that movie.",1,11,similarity,30
+95,I love mob movies. If you haven't seen Gangs of New York (2002) you should give it a peek,1,2,encouragement,29
+161,I am here to help1,1,4,offer_help,29
+169,oh yes let me think..,1,4,offer_help,29
+170,It is my pleasure can help you,1,4,offer_help,29
+234,Yes I seen it 3 time !,1,6,personal_experience,29
+296,"I like Bruce Willis in a lot of movies, especially in Die Hard (1988)",1,7,personal_opinion,29
+297,Not as old but Airplane! (1980) I would consider a semi classic.,1,7,personal_opinion,29
+361,I hope this has helped?,1,8,preference_confirmation,29
+382,"Oh ok. Dunkirk is a war movie, so I thought that's what you were looking for.",1,9,rephrase_preference,29
+386,"Oh ok, so you like romantic comidies!",1,9,rephrase_preference,29
+417,Okay I have to check it out,1,10,self_modeling,29
+426,I will watch it soon,1,10,self_modeling,29
+428,It's on my list of favorites.,1,10,self_modeling,29
+482,That's funny too.,1,11,similarity,29
+489,I thought so.  Very funny,1,11,similarity,29
+718,Really? I didnt know that.  You are going to have me go look it up.,1,4,offer_help,29
+725,I can recommend movies to you,1,4,offer_help,29
+767,What kinds of movies have you liked before with this group of friends?,1,5,opinion_inquiry,29
+775,I enjoyed House at the End of the Street (2012) but have not seen The Last House on the Left  (2009) or The Last House on the Left  (1972).,1,6,personal_experience,29
+844,"scary movie is funny, I liked it a lot",1,7,personal_opinion,29
+868,Or The Black Panthers: Vanguard of the Revolution (2015) ?,1,8,preference_confirmation,29
+890,"So, what would you like to watch?",1,8,preference_confirmation,29
+936,I cant wait!,1,10,self_modeling,29
+1016,i could enjoy it too.,1,11,similarity,29
+62,Its the ultimate classic,1,1,credibility,28
+77,I will add it to the Netflix que. Thank you!,1,2,encouragement,28
+81,Spotlight  (2015)  was awesome. I highly recommend it!,1,2,encouragement,28
+84,I think you would really like The Shining  (1980) .,1,2,encouragement,28
+166,Okay. I have a few ideas. Give me a minute,1,4,offer_help,28
+193,Well how about Wonder Woman  (2017) .,1,5,opinion_inquiry,28
+212,What genre of movie do you like?,1,5,opinion_inquiry,28
+318,It is very good.,1,7,personal_opinion,28
+387,you like funny movies.,1,9,rephrase_preference,28
+391,yes. Well you like Will Smith :),1,9,rephrase_preference,28
+411,I will this weekend,1,10,self_modeling,28
+446,Oh that sounds like one I will have to check out.,1,10,self_modeling,28
+447,Well I think I will have to be looking into some movies myself now.,1,10,self_modeling,28
+488,I enjoyed The Texas Chainsaw Massacre  (2003) too.,1,11,similarity,28
+565,Great. Good bye my friend.,1,0,acknowledgment,28
+637,definitely the movie Step Brothers  (2008) Is for you!,1,2,encouragement,28
+750,I have never seen either of those movies.  do you like comedies like The Waterboy (1998)  or something like Black Sheep  (1996).,1,5,opinion_inquiry,28
+780,I have not seen the remake.,1,6,personal_experience,28
+806,I haven't actually seen that many.,1,6,personal_experience,28
+812,"No, i have not watched neither heard",1,6,personal_experience,28
+829,X-Men: The Last Stand (2006) was another good xmen movie,1,7,personal_opinion,28
+854,There are many of those movies any of them are really awesome,1,7,personal_opinion,28
+885,like Billy Madison (1995) ?,1,8,preference_confirmation,28
+930,Well I could imagine if you are a fan of the older ones and if you like movies like Aliens  (1986) then Star Wars: Episode VIII ‚Äö√Ñ√¨ The Last Jedi (2017)  maybe not your type of movie.,1,9,rephrase_preference,28
+976,But I should check it out,1,10,self_modeling,28
+994,yeah those are great movies,1,11,similarity,28
+21,"you too, thank you...goodnight.",1,0,acknowledgment,27
+22,You're welcome.,1,0,acknowledgment,27
+52,i can recommend you The Mask  (1994) which was made by Jin Carrey,1,1,credibility,27
+66,It's with Daniel Radcliffe where he is like a reanimated corpse and he helps a guy stranded on an island. It's wacky.,1,1,credibility,27
+235,Empire of the Ants  (1977) freaked me out as a child,1,6,personal_experience,27
+250,I havent seen either,1,6,personal_experience,27
+259,I'm not super familiar with scary movies. I have a friend who loves them and prefers the classics like A Nightmare on Elm Street (1984) and Bride of Chucky (1998),1,6,personal_experience,27
+276,I have not seen those movies.,1,6,personal_experience,27
+289,We are a big fan of Spaceballs (1987) and Blazing Saddles (1974) in my house. A bit older like the two you mentioned and super funny. I just love Mel Brooks,1,7,personal_opinion,27
+376,well you seem to be a stephen king expert,1,9,rephrase_preference,27
+583,sounds good.  You have a great day.  Thank you and good bye.,1,0,acknowledgment,27
+616,Enjoy them,1,2,encouragement,27
+624,"a classic that I recommend is the movie the graduate, the soudtrank I liked a lot",1,2,encouragement,27
+628,i also would recommend you American Pie 2 (2001),1,2,encouragement,27
+647,Yeh Spiderman is a great movie,1,2,encouragement,27
+721,I want to share movies to you,1,4,offer_help,27
+727,"Okay, hold on and I'll recommend some",1,4,offer_help,27
+733,Do you like scary,1,5,opinion_inquiry,27
+784,I grew up watching A Nightmare on Elm Street (1984) and Friday the 13th  (1980).,1,6,personal_experience,27
+856,The second one A Nightmare on Elm Street 2: Freddy's Revenge (1985) is great too.,1,7,personal_opinion,27
+888,For an interesting action movie maybe Michael Clayton  (2007) ?,1,8,preference_confirmation,27
+953,I want to see it. I heard good things.,1,10,self_modeling,27
+995,Same here,1,11,similarity,27
+999,I've heard the same abut that movie,1,11,similarity,27
+61,There's a pbs channel with great documentaries.,1,1,credibility,26
+72,Also Back to the Future (1985) is a classic sci-fi movie.,1,1,credibility,26
+104,whats that ?,1,3,experience_inquiry,26
+122,have you seen it,1,3,experience_inquiry,26
+199,I like drama too. I really like Titanic (2012) . Do you like that?,1,5,opinion_inquiry,26
+213,How about The Wedding Singer (1998),1,5,opinion_inquiry,26
+247,Yes! I cant remember his name.,1,6,personal_experience,26
+257,"I haven't seen RBG (2018) yet, but one of my friends was telling me she enjoyed it.",1,6,personal_experience,26
+279,For me the best fantsy is The Lord of the Rings ,1,7,personal_opinion,26
+287,Yeh that's the one she is a great actress,1,7,personal_opinion,26
+341,maybe you feel like an action movie today? Die Hard (1988) or The Transporter (2002),1,8,preference_confirmation,26
+357,Or even a classic/cheesy action film like The Rock  (1996) ?,1,8,preference_confirmation,26
+486,Perfect! Me too!,1,11,similarity,26
+763,What kind of movies do you like? I love horrors!,1,5,opinion_inquiry,26
+818,I really haven‚Äö√Ñ√¥t seen any recent one at lately,1,6,personal_experience,26
+830,That is very scary,1,7,personal_opinion,26
+846,"Yes Adam Sandler has made so many great movies, I even like his newer ones like Click  (2006) and Grown Ups  (2010) .",1,7,personal_opinion,26
+848,i loved that movie actually haha.,1,7,personal_opinion,26
+851,I also enjoy classic horror movies like A Nightmare on Elm Street (1984)  and A Nightmare on Elm Street 2: Freddy's Revenge (1985),1,7,personal_opinion,26
+872,Would The Boy  (2016) be a good horror choice?,1,8,preference_confirmation,26
+920,All of your examples were Female leads,1,9,rephrase_preference,26
+965,next movie i plan on seeing is Deadpool 2  (2018),1,10,self_modeling,26
+972,I am not a horror film fanatic but I will watch it.,1,10,self_modeling,26
+980,those are good movies as well,1,11,similarity,26
+989,I love Bruce Willis too and can watch the movie over and over.,1,11,similarity,26
+1001,"I know, Me Before You  made me cry!",1,11,similarity,26
+1005,Yes very true,1,11,similarity,26
+1049,Hello there. Looking for a good movie?,1,12,transparency,26
+86,I've never seen Fear  (1990) .  Even though it's more 80s you might like Heathers (1988) if you liked Cruel Intentions (1999) .,1,2,encouragement,25
+156,Hello there.  I am here to recommend some movies to you.,1,4,offer_help,25
+221,"Well basically all the Avengers get together for a common goal, I really liked it.  I am, what about you?",1,5,opinion_inquiry,25
+238,No not seen it.,1,6,personal_experience,25
+262,We had to watch it for school,1,6,personal_experience,25
+274,I havent seen that one,1,6,personal_experience,25
+290,Stardust  (2007) is also a good action adventure romance.,1,7,personal_opinion,25
+319,It's one of the best movies ever made.,1,7,personal_opinion,25
+337,you like to watch them?,1,8,preference_confirmation,25
+389,but you've probably already seen that..,1,9,rephrase_preference,25
+459,"Yeah, I liked it too",1,11,similarity,25
+483,Yeah thats a good one.,1,11,similarity,25
+485,"Yes you do, maybe even too much.",1,11,similarity,25
+495,Are you looking for a good movie to watch?,1,12,transparency,25
+575,That's really good,1,0,acknowledgment,25
+614,You can watch too if you want to The Exorcist  (1973),1,2,encouragement,25
+629,"Well, enjoy your evening good bye",1,2,encouragement,25
+677,did you watch Click  (2006) ?,1,3,experience_inquiry,25
+730,"Oh, you like scary movies?",1,5,opinion_inquiry,25
+792,I haven't seen Thor: Ragnarok (2017) .,1,6,personal_experience,25
+807,I haven't seen that one,1,6,personal_experience,25
+820,"I haven't seen it yet, but my friend liked it.",1,6,personal_experience,25
+826,"Sure! I like comedies a lot. I like movies like Hot Tub Time Machine and Super Troopers (2001) , but I also like Identity Thief (2013) and The Heat  (2013) .",1,7,personal_opinion,25
+838,I wasn't a big fan of Paranormal Activity (2007),1,7,personal_opinion,25
+866,Yes! Batman has made a lot of good movies,1,7,personal_opinion,25
+880,"Good. Would you like to watch some old horror movies like Night of Terror (1933), or Frankenstein  (1931)",1,8,preference_confirmation,25
+947,I cant wait to see it.,1,10,self_modeling,25
+954,I can't wait to see it,1,10,self_modeling,25
+1004,Me too man,1,11,similarity,25
+131,What about last year's The House  (2017) ?,1,3,experience_inquiry,24
+152,Give me one moment!,1,4,offer_help,24
+154,I have some movies to recommend to you!,1,4,offer_help,24
+210,Aldo Titanic (2012) is great. what movies do you like,1,5,opinion_inquiry,24
+236,No but I grew up watching it !,1,6,personal_experience,24
+270,I havent even heard of that one,1,6,personal_experience,24
+277,I have not seen taht movie,1,6,personal_experience,24
+311,only a few jump scares,1,7,personal_opinion,24
+327,Maybe a good comedy?,1,8,preference_confirmation,24
+329,maybe Pitch Perfect 3 (2017) ?,1,8,preference_confirmation,24
+398,Both are excellent movies. If you are looking for something a little lighter..,1,9,rephrase_preference,24
+453,I gotta rec the classic Pirates of the Caribbean ,1,10,self_modeling,24
+480,"Me too, bye",1,11,similarity,24
+500,Are you looking for a movie to watch?,1,12,transparency,24
+608,You should watch Police Academy  (1984),1,2,encouragement,24
+609,yes you will enjoy them,1,2,encouragement,24
+613,I can tell you to watch Click  (2006),1,2,encouragement,24
+632,"Well, you should try them",1,2,encouragement,24
+682,what about Spider-Man: Homecoming (2017) ?,1,3,experience_inquiry,24
+722,I can recommend what you like,1,4,offer_help,24
+736,tell me what kind of movie do you like?,1,5,opinion_inquiry,24
+768,Do your friends also like scary movies?,1,5,opinion_inquiry,24
+782,I am not sure that I know many musicals.  I have never seen Les Mis‚àö¬©rables  (2012).,1,6,personal_experience,24
+791,No I have not seen that movie.,1,6,personal_experience,24
+822,I seen it 3 times I‚Äö√Ñ√¥m black panther out lol,1,6,personal_experience,24
+847,I love the movie Little Nicky (2000)  an all time favorite,1,7,personal_opinion,24
+873,Hi there are you interested in some classic comedies?,1,8,preference_confirmation,24
+926,You if youre a fan of Seth Rogen haha.,1,9,rephrase_preference,24
+988,I agree it was more intense then It(1988),1,11,similarity,24
+993,"Yeah those are the best, especially Pulp fiction.",1,11,similarity,24
+1029,are you looking for a movie?,1,12,transparency,24
+0,"it was nice talking to you , good bye",1,0,acknowledgment,23
+42,Good bye i see you later,1,0,acknowledgment,23
+246,No I havent seen the new one,1,6,personal_experience,23
+254,No :( I haven‚Äö√Ñ√¥t watched any in a supe long time,1,6,personal_experience,23
+281,No I have not seen that one either.  I guess I have a few to look into.  I really liked Annabelle  (2014) though.,1,7,personal_opinion,23
+282,"Grand Hotel  (1932) is another favorite old movie of mine, though it doesn't have the same hard-boiled feel to it",1,7,personal_opinion,23
+295,I really enjoy movies like The Avengers  (2012) and Iron Man  (2008). Recently we watched Spider-Man: Homecoming (2017) and it was great!,1,7,personal_opinion,23
+325,"hahahaa, those are old movies but if you see them again you laugh so much",1,7,personal_opinion,23
+345,May I reccomend some comedies such as Kingpin  (1996) or Superbad  (2007) ?,1,8,preference_confirmation,23
+431,im a movie expert!,1,10,self_modeling,23
+463,Yes that was a great movie.,1,11,similarity,23
+464,I watched it too.,1,11,similarity,23
+470,Me too!!!!,1,11,similarity,23
+478,Yes! I love Beetlejuice (1988) too.,1,11,similarity,23
+578,"Great, anytime!",1,0,acknowledgment,23
+607,A Quiet Place (2018) is horror and No Country for Old Men  (2007) is kind of a horror thriller.,1,1,credibility,23
+694,"Awesome, have you tried the new Beauty and the Beast  (2017)",1,3,experience_inquiry,23
+746,you like?,1,5,opinion_inquiry,23
+773,Hello what kind of movies are you looking for?,1,5,opinion_inquiry,23
+781,I have't seen Jurassic Park,1,6,personal_experience,23
+805,I never even heard of it,1,6,personal_experience,23
+809,I seriously slept through Captain America: Civil War (2016) both times I watched it.,1,6,personal_experience,23
+823,Yes Police Academy  (1984) is very funny and so is Police Academy 2: Their First Assignment (1985),1,7,personal_opinion,23
+840,one of my favorites from him is The Astronaut's Wife (1999),1,7,personal_opinion,23
+841,It is very creepy and dark but full of suspense,1,7,personal_opinion,23
+850,Creed  (2015) is an awesome movie as well. I love boxing movies,1,7,personal_opinion,23
+893,maybe action movies like Hot Fuzz (2007) ?,1,8,preference_confirmation,23
+938,"Ok, I will have to check it out.",1,10,self_modeling,23
+1006,"I liked it too, it was very interesting",1,11,similarity,23
+1010,"Yeah, i think that's one of the best i have ever seen",1,11,similarity,23
+32,your welcome,1,0,acknowledgment,22
+149,"Okay, let me think...",1,4,offer_help,22
+153,Let me think here..,1,4,offer_help,22
+231,What about Black Panther (2018),1,5,opinion_inquiry,22
+241,I haven‚Äö√Ñ√¥t seen blade runner,1,6,personal_experience,22
+255,I saw a movie a few years ago Brooklyn  (2015)  that I have been telling everyone about.,1,6,personal_experience,22
+261,I saw Peter Rabbit (2018) with my daughter she loved it,1,6,personal_experience,22
+293,Tommy Boy (1995)  and Black Sheep  (1996) are 2 all time favorites.,1,7,personal_opinion,22
+301,Samuel Jackson made the movie great !,1,7,personal_opinion,22
+309,it was very good. and not too scary or gruesome for someone who doesn't normally watch  them,1,7,personal_opinion,22
+321,"Also, Halloween  (1978) is a classic. It's the best horror movie.",1,7,personal_opinion,22
+322,i really like Captain America: Civil War (2016) Also,1,7,personal_opinion,22
+354,or maybe The Nice Guys (2016) ?,1,8,preference_confirmation,22
+471,Me too love comedy,1,11,similarity,22
+634,Have a good evening and enjoy those movies,1,2,encouragement,22
+738,Do you not like scary movies?,1,5,opinion_inquiry,22
+748,What kind of movie are you looking for now?,1,5,opinion_inquiry,22
+754,Well that one definitely isn't funny.  How about Black Sheep  (1996)  or another classic Uncle Buck,1,5,opinion_inquiry,22
+843,I love a good Steven King movie,1,7,personal_opinion,22
+863,So funny and just ridiculous.,1,7,personal_opinion,22
+864,I really love Chris Farley's movies Tommy Boy (1995) is an all time favorite,1,7,personal_opinion,22
+875,Which once that I recommended would you like to watch?,1,8,preference_confirmation,22
+877,Then might I recommend Last Action Hero (1993) starring Arnold Schwarzenegger?,1,8,preference_confirmation,22
+884,Will you watch it?,1,8,preference_confirmation,22
+895,Is that enough family friendly and adventure films for you?,1,8,preference_confirmation,22
+919,So you like the old ones then.,1,9,rephrase_preference,22
+1000,"Me too, buddy.",1,11,similarity,22
+1003,Yes! Me too! I wound up liking Ant-Man  (2015) more than I thought I would!,1,11,similarity,22
+150,Oh okay. Let me think...,1,4,offer_help,21
+186,i can help you,1,4,offer_help,21
+242,Yes I seen hellboy!,1,6,personal_experience,21
+273,i havent seen it,1,6,personal_experience,21
+300,"Likewise, Alpacino is great.",1,7,personal_opinion,21
+310,The Others  (2001) is pretty creepy,1,7,personal_opinion,21
+312,Get Out (2017) was so good.,1,7,personal_opinion,21
+352,or maybe Grease 2 (1982)  ?,1,8,preference_confirmation,21
+472,"Yes, that was funny!",1,11,similarity,21
+473,Me too. Variety.,1,11,similarity,21
+475,I agree,1,11,similarity,21
+582,"Thank you too.  You have a great day, good bye.",1,0,acknowledgment,21
+591,It is action packed with great fight scenes.,1,1,credibility,21
+641,You might love Deadpool  (2016) !,1,2,encouragement,21
+857,I love that movie.,1,7,personal_opinion,21
+901,Would like to know a comedy or something more serious like the Godfather  (1991)?,1,8,preference_confirmation,21
+945,Lol ahhh I‚Äö√Ñ√¥m still excited to see it!,1,10,self_modeling,21
+986,I loved that as well,1,11,similarity,21
+990,I like that movie too.,1,11,similarity,21
+1015,I haven't either but I plan on it.,1,11,similarity,21
+14,must see!,1,0,acknowledgment,20
+33,I'm well! Having a good start to the day!,1,0,acknowledgment,20
+54,Live Free or Die Hard (2007) is another they try to kill him agian,1,1,credibility,20
+217,What other types of movies do you like?,1,5,opinion_inquiry,20
+239,I haven‚Äö√Ñ√¥t seen homecoming,1,6,personal_experience,20
+292,I love Happy Gilmore (1996).,1,7,personal_opinion,20
+462,"Me neither haha, i hope i have helped you",1,11,similarity,20
+560,"thank you, good bye",1,0,acknowledgment,20
+572,"You're welcome.  Have a great day, good bye.",1,0,acknowledgment,20
+620,excellent! I hope you enjoy,1,2,encouragement,20
+732,Do you like scary movies?,1,5,opinion_inquiry,20
+804,"I just watched the Punisher on Netflix, the show",1,6,personal_experience,20
+832,Even though i would rather the old one,1,7,personal_opinion,20
+869,Might I suggest you go back and watch the movie Sixth Sense since you cannot remember if you saw it?,1,8,preference_confirmation,20
+887,For family movies Finding Dory (2016) or Trolls  (2016) ?,1,8,preference_confirmation,20
+903,So You like adventure movies?,1,8,preference_confirmation,20
+1007,I liked it too,1,11,similarity,20
+1012,nice me too,1,11,similarity,20
+1034,Anything else,1,12,transparency,20
+28,"Good day to you, too!",1,0,acknowledgment,19
+206,how about Maid in Manhattan,1,5,opinion_inquiry,19
+214,Do you think you'd like the new Jurassic World (2015)?,1,5,opinion_inquiry,19
+291,"I like that scared to the couch feeling, though sometimes I have to follow up my horror movies with a great comedy.  Something like The Waterboy (1998).",1,7,personal_opinion,19
+302,"Yes, Avengers is good",1,7,personal_opinion,19
+326,Somthing like The Godfather (1972) ?,1,8,preference_confirmation,19
+466,Yes that was amazing too!,1,11,similarity,19
+518,"Hey there, can I recommend a movie for you?",1,12,transparency,19
+521,do you need my help,1,12,transparency,19
+618,Yes that is the movie I suggest.,1,2,encouragement,19
+619,"absolutely, enjoy!",1,2,encouragement,19
+655,did you watch Avengers: Infinity War (2018),1,3,experience_inquiry,19
+742,Are you looking for something older or newer?,1,5,opinion_inquiry,19
+759,What kinds of movies do you like? Do you like dramatic movies?,1,5,opinion_inquiry,19
+825,"It was really creepy, but I thought it was good!",1,7,personal_opinion,19
+834,But that is a scary one,1,7,personal_opinion,19
+860,I didn't think the American Pie  (1999) movies were that great,1,7,personal_opinion,19
+861,I always felt like the were super overrated.,1,7,personal_opinion,19
+902,Hmm. Do you highly recommend all of the Lord of the Rings movies? I have not seen them! Maybe you'd like The Golden Compass  (2007)?,1,8,preference_confirmation,19
+924,Even if you are nt a fan of sci fi,1,9,rephrase_preference,19
+978,"Me, too!",1,11,similarity,19
+985,I liked that one too!,1,11,similarity,19
+1009,I do as well.,1,11,similarity,19
+11,"Hello, sure I will.",1,0,acknowledgment,18
+35,"Thank you for the chat, goodbye.",1,0,acknowledgment,18
+70,Birdman  (2014) and the new RBG (2018)  documentary for sure.,1,1,credibility,18
+134,Nice! I'm well. I enjoyed my weekend. I saw Deadpool 2  (2018) with my bf. Did you see it?,1,3,experience_inquiry,18
+207,"Hello, what genre of movie do you like?",1,5,opinion_inquiry,18
+219,"I like action, comedy, and thrillers mostly. What about you?",1,5,opinion_inquiry,18
+220,"Hi, how are you? Did you enjoy your weekend?",1,5,opinion_inquiry,18
+225,What type of movies do you like?,1,5,opinion_inquiry,18
+305,It really portrays how the majority of america really is,1,7,personal_opinion,18
+308,Fight Club (1999) and The Shawshank Redemption (1994) are two of my favorite movies.,1,7,personal_opinion,18
+320,I did. It was great.,1,7,personal_opinion,18
+347,Or maybe First Sunday (2008)?,1,8,preference_confirmation,18
+636,You should try those,1,2,encouragement,18
+862,I've seen Click  (2006)  but I don't like it as much as his older movies.,1,7,personal_opinion,18
+1011,I loved that movie too.,1,11,similarity,18
+1017,"Ah, yes, I liked that too.",1,11,similarity,18
+1058,"I am well, looking for a good movie?",1,12,transparency,18
+7,Great. Goodbye.,1,0,acknowledgment,17
+99,"Oh! Okay, you should see Guardians of the Galaxy  (2014) so that you could even better understand that relationship dynamic with his daughters.",1,2,encouragement,17
+559,my apologies,1,0,acknowledgment,17
+566,Thank you! Have a great day Good bye.,1,0,acknowledgment,17
+630,i could recommend you American Pie  (1999),1,2,encouragement,17
+734,What kind of movies do you like,1,5,opinion_inquiry,17
+753,Tell what kind of movie would you like to watch?,1,5,opinion_inquiry,17
+758,What kind of movie genres do you like,1,5,opinion_inquiry,17
+803,No the only Marvel movie I have seen was Avengers: Infinity War (2018) .,1,6,personal_experience,17
+853,that's is very interesting and funny,1,7,personal_opinion,17
+858,I loved It (1990)  and I thought the new one It  (2017)  was ok,1,7,personal_opinion,17
+8,Thanks. Goodbye.,1,0,acknowledgment,16
+107,Have you seen Raiders of the Lost Ark (1981) ? That is a classic.,1,3,experience_inquiry,16
+197,"Yes, what types of movies are you interested in?",1,5,opinion_inquiry,16
+330,"I have, and if you like psychological thrillers like that, might I recommend Mama  (2013) ?",1,8,preference_confirmation,16
+366,or Insidious  (2011) ?,1,8,preference_confirmation,16
+474,"Yeah, me too. Laughter is the best medicine!",1,11,similarity,16
+516,"I am good as well, thanks . How can I help you today?",1,12,transparency,16
+761,"Do you like classic dramas like Casablanca, or would you prefer something more recent?",1,5,opinion_inquiry,16
+770,"What else would you like in the movie? comedy, fairy tales?",1,5,opinion_inquiry,16
+835,Click  (2010) was good,1,7,personal_opinion,16
+1008,I like the same as you,1,11,similarity,16
+1018,"I did! It was funny. Oh yes, I liked the old Deadpool  (2016)  too!",1,11,similarity,16
+53,Yes it is! It has Micheal Jackson in it,1,1,credibility,15
+64,Its sort of comic book/video game style movie,1,1,credibility,15
+141,there is Fargo  (1996) have you seen it?,1,3,experience_inquiry,15
+202,What kind of movies do you like.,1,5,opinion_inquiry,15
+208,"Hi, what kind of movies are you looking for.",1,5,opinion_inquiry,15
+230,What kind movies do you like?,1,5,opinion_inquiry,15
+331,or maybe Tangled (2010) ?,1,8,preference_confirmation,15
+524,How can I help you today?,1,12,transparency,15
+526,hi are you looking for a movie,1,12,transparency,15
+539,Is there anything else I can help you with?,1,12,transparency,15
+672,Have you seen Annihilation  (2018)?  I would recommend it.,1,3,experience_inquiry,15
+695,Have you seen Sleeping Beauty  (2011) it's a classic,1,3,experience_inquiry,15
+739,me what kind of movies do you like?,1,5,opinion_inquiry,15
+756,do you like marvel movies?,1,5,opinion_inquiry,15
+839,My favorite Adam Sandler movie is definitely Billy Madison (1995),1,7,personal_opinion,15
+103,Have you seen 21 Jump Street  (2012) ? I thought that was a pretty funny movie,1,3,experience_inquiry,14
+201,Oh I see. What do you like?,1,5,opinion_inquiry,14
+204,Great!  What type of movies do you like?,1,5,opinion_inquiry,14
+215,"Sure, I love dramas. What is your favorite drama?",1,5,opinion_inquiry,14
+216,How did you like it?,1,5,opinion_inquiry,14
+304,I like the movie Get out,1,7,personal_opinion,14
+497,Hello!  I'm good. How are you?  Are you looking for a movie suggestion?,1,12,transparency,14
+592,They do say there is no bond like one between a man and his dog.,1,1,credibility,14
+602,it is a movie mady by Adan Sandle,1,1,credibility,14
+686,I wonder if you have seen any of the movies I suggested?,1,3,experience_inquiry,14
+745,"Hello, what type of movies do you like?",1,5,opinion_inquiry,14
+751,Hello can you tell me what kind of movies you like best?,1,5,opinion_inquiry,14
+1022,"Did o help you, or do you need more help?",1,12,transparency,14
+2,You too,1,0,acknowledgment,13
+10,Thank you!,1,0,acknowledgment,13
+46,Click  (2006) it is made by Adan Sandler,1,1,credibility,13
+60,"I know Kevin Hart had a part in it, too.",1,1,credibility,13
+144,have you seen Avengers: Infinity War (2018) ?,1,3,experience_inquiry,13
+222,"Hi, what kind of movies do you like?",1,5,opinion_inquiry,13
+306,It's awesome. Its a really funny murder mystery with Val Kilmer and RDJ,1,7,personal_opinion,13
+336,may I recommend The Transporter (2002) or From Paris with Love  (2010) ?,1,8,preference_confirmation,13
+491,Would you like a movie recommendation?,1,12,transparency,13
+493,"Good afternoon!  I'm good, I hope you are well!  Are you looking for a movie suggestion?",1,12,transparency,13
+501,Hello!  Are you looking for a movie suggestion?,1,12,transparency,13
+513,"I'm good, it seems I'm supposed to recommend movies to you, is there anything you are interested in?",1,12,transparency,13
+535,"Hi, how can I help?",1,12,transparency,13
+594,That is full of action and comedy.,1,1,credibility,13
+765,"Good thanks, what kind of movies do you like?",1,5,opinion_inquiry,13
+772,Did you like the scifi aspect of Donnie Darko (2001) ?,1,5,opinion_inquiry,13
+1033,Hello. Can you recommend a movie for me that you think is good?,1,12,transparency,13
+13,Im fine thanks!,1,0,acknowledgment,12
+51,It is about Batman and the Joker,1,1,credibility,12
+116,"those are really funny, have you seen them?",1,3,experience_inquiry,12
+229,Great! What kind of movies do you like?,1,5,opinion_inquiry,12
+492,Does this help you find a movie to watch?,1,12,transparency,12
+527,Can I recommend some movies?,1,12,transparency,12
+530,Hi how can I help you find a movie?,1,12,transparency,12
+533,"Hi, can I help you find a movie?",1,12,transparency,12
+588,"no problem, bye",1,0,acknowledgment,12
+599,I love Ever After (1998) . Its an older fairy tale romance with Drew Barrmore,1,1,credibility,12
+600,So True Romance (1993) is a crime movie with some romance,1,1,credibility,12
+605,A classic fictional courtroom drama is To Kill a Mockingbird  (1962),1,1,credibility,12
+653,Have you seen It  (2017),1,3,experience_inquiry,12
+661,Did you watch The Exorcist  (1973) ?,1,3,experience_inquiry,12
+665,And did you watch You Don't Mess with the Zohan (2008) ?,1,3,experience_inquiry,12
+679,I like old school horror movies like A Nightmare on Elm Street (1984) have you ever seen this one?,1,3,experience_inquiry,12
+685,Hi! Have you seen a good action movie lately?,1,3,experience_inquiry,12
+691,"They are great movies, have you seen American Gangster  (2007)",1,3,experience_inquiry,12
+752,or do you like Scary movies?,1,5,opinion_inquiry,12
+1027,Do you need help finding a movie?,1,12,transparency,12
+1066,need some movies?,1,12,transparency,12
+6,Yes that is great.,1,0,acknowledgment,11
+59,a whole bunch of comedic actors are in it,1,1,credibility,11
+285,It is the best marvel film so far,1,7,personal_opinion,11
+499,I hope you have something here you can use?,1,12,transparency,11
+523,if bro and tell me what else can I help you...,1,12,transparency,11
+534,"Hi, how can i help you?",1,12,transparency,11
+538,Hello! How may I help you today?,1,12,transparency,11
+540,you are welcome,1,0,acknowledgment,11
+590,mainly because Johnny Depp is in it,1,1,credibility,11
+596,"In Key Largo  (1948) Humphrey Bogart's character clashes with mobsters in a Florida resort town, and falls in love with Lauren Bacall along the way",1,1,credibility,11
+771,What movies outs die of the romance genre do you like?,1,5,opinion_inquiry,11
+1031,Hello looking for a funny movie any suggestions?,1,12,transparency,11
+1038,Hi. How are you? Can I recommend you something?,1,12,transparency,11
+1054,Any plans for today? Should I recommend you something?,1,12,transparency,11
+1067,need some good movie?,1,12,transparency,11
+16,Thank you.,1,0,acknowledgment,10
+36,See you!,1,0,acknowledgment,10
+48,It's based on a book about a rogue shark that terrorizes a small beach community during the tourist summer season.,1,1,credibility,10
+102,"Oh for sure, it is a great movie and Mark Wahlberg is a stud.  Have you ever seen Boogie Nights (1997) ?",1,3,experience_inquiry,10
+123,have you seen that one?,1,3,experience_inquiry,10
+137,"Wonderful, I just seen this awesome movie call Avengers: Infinity War (2018) , have you seen it?",1,3,experience_inquiry,10
+140,have you ever seen American Pie  (1999) ?,1,3,experience_inquiry,10
+142,Hello. Have you seen Jaws  (1975),1,3,experience_inquiry,10
+146,Have you seen Girls Trip (2017),1,3,experience_inquiry,10
+332,Maybe you would like Highlander: Endgame (2000)?,1,8,preference_confirmation,10
+504,can i help yo,1,12,transparency,10
+563,Thanks!,1,0,acknowledgment,10
+668,Have you ever seen The Conjuring (2013),1,3,experience_inquiry,10
+757,do you like that kind of movies?,1,5,opinion_inquiry,10
+1021,Woudl you like any other suggestions?,1,12,transparency,10
+1023,Can I help you find a movie?,1,12,transparency,10
+1043,do you need some movie to watch tonight?,1,12,transparency,10
+29,Great! Goodbye.,1,0,acknowledgment,9
+34,You're welcome!,1,0,acknowledgment,9
+47,Those movies are made by Adan Sandler even though Click  (2006) is better than the another one,1,1,credibility,9
+49,Chris Rock. He dies by accident and comes back in someone else body.,1,1,credibility,9
+50,It's a love story about two young people who meet in the summer and they fall in love and they have to part ways for a long time but end up meeting agian,1,1,credibility,9
+65,The House  (2017) was a good Will Ferrell movie from last year.,1,1,credibility,9
+114,Hello! Have you seen either of these? Avengers: Infinity War (2018)  or Thor ,1,3,experience_inquiry,9
+120,Have you seen 21 Jump Street  (2012) or any of the The Hangover (2009) movies?,1,3,experience_inquiry,9
+129,ok have you seen Seabiscuit  (2003),1,3,experience_inquiry,9
+130,Have you seen Talladega Nights: The Ballad of Ricky Bobby (2006) or The Hangover (2009) ?,1,3,experience_inquiry,9
+135,"Yeah, I liked the first one, Deadpool  (2016) Did you see that one?",1,3,experience_inquiry,9
+138,Well have you seen The Avengers  (2012) ?,1,3,experience_inquiry,9
+143,Have you seen Lethal Weapon (1987),1,3,experience_inquiry,9
+502,Hey there. I'm doing well. Can I recommend a movie for you?,1,12,transparency,9
+503,Hey there. Can I recommend something to watch?,1,12,transparency,9
+532,what can I help you fiind tonight?,1,12,transparency,9
+557,lol,1,0,acknowledgment,9
+598,It's based on 1970's in New York,1,1,credibility,9
+680,"Hi there.  I would like to suggest some comedies you could watch, have you seen The Wedding Singer (1998) ?",1,3,experience_inquiry,9
+1026,Would you like some more suggestions?,1,12,transparency,9
+1030,Need help finding a good movie?,1,12,transparency,9
+1039,Looking for any good movies?,1,12,transparency,9
+1040,Hello there. Looking for some good movies?,1,12,transparency,9
+20,your very welcome!,1,0,acknowledgment,8
+26,"Awesome, see you later.",1,0,acknowledgment,8
+38,yes of course,1,0,acknowledgment,8
+63,"Its about a guy who wants to be with this girl, but in order to do so he must fight her 7 exes. And then he meets them and fights them like, pokemon style, or mortal combat style",1,1,credibility,8
+69,It's a Will Ferrell comedy.,1,1,credibility,8
+108,Have you seen Jack Reacher  (2012) ?,1,3,experience_inquiry,8
+112,Have you seen the new Avengers? Avengers: Infinity War (2018),1,3,experience_inquiry,8
+494,What kind of movies can I help you with tonight?,1,12,transparency,8
+498,Hello!  Can I help you find a movie?,1,12,transparency,8
+519,Hey there! Can I recommend a good horror movie for you?,1,12,transparency,8
+520,Want any more recommendations?,1,12,transparency,8
+528,Hi I'm good. Are you looking for a movie?,1,12,transparency,8
+531,Hi - need a good movie reco?,1,12,transparency,8
+545,okay thanks!,1,0,acknowledgment,8
+597,"It has Drew Barrymore and Adam Sandler starring, it's a romantic comedy so you would like it",1,1,credibility,8
+656,"So, did you watch It  (2017) ?",1,3,experience_inquiry,8
+658,and did you watch The Exorcist  (1973) ?,1,3,experience_inquiry,8
+662,And did you watch The Last Exorcism (2010) ?,1,3,experience_inquiry,8
+671,have you ever seen The Conjuring (2013) ?,1,3,experience_inquiry,8
+683,Have you seen the movie The Godfather (1972),1,3,experience_inquiry,8
+1035,I am trying to find a movie for my kid any suggestions?,1,12,transparency,8
+1036,Hi. How can I help you today?,1,12,transparency,8
+1041,Hey there. I am well. Are you looking for a good movie?,1,12,transparency,8
+1056,Looking for some good movies?,1,12,transparency,8
+1061,Looking for any movie recommendations?,1,12,transparency,8
+45,Hey there!,1,0,acknowledgment,7
+113,Have you seeen Blockers (2018) ?,1,3,experience_inquiry,7
+117,have you seen American Pie  (1999) ?,1,3,experience_inquiry,7
+118,have you ever seen Monster  (2003) with Charlize Theron?,1,3,experience_inquiry,7
+128,Have you seen Fifty Shades of Grey  (2015),1,3,experience_inquiry,7
+514,Good morning. Have any plans for the weekend?,1,12,transparency,7
+515,Are you looking for a movie to watch today?,1,12,transparency,7
+529,do you mind if I ask you some questions first?,1,12,transparency,7
+537,May I suggest a movie for you?,1,12,transparency,7
+669,have you seen that at all?,1,3,experience_inquiry,7
+676,have you ever seen You Don't Mess with the Zohan (2008) ?,1,3,experience_inquiry,7
+681,"Hello, there is a movie that I have always enjoyed and I'm not sure what you would call the genre but the movie is Donnie Darko (2001)  have you ever seen this one?",1,3,experience_inquiry,7
+688,"There's Something About Mary (1998) ething About Mary is a great movie, very funny. Have you seen The Wedding Singer (1998) ?",1,3,experience_inquiry,7
+690,Have you seen Avengers: Age of Ultron (2015),1,3,experience_inquiry,7
+696,Have you seen Kill Bill?,1,3,experience_inquiry,7
+1019,Is there anything else I could assist with today?,1,12,transparency,7
+1024,Can I help you find a good movie tonight?,1,12,transparency,7
+1025,Was I able to help you tonight?,1,12,transparency,7
+1032,Hello Im so bored can you help with a good movie,1,12,transparency,7
+109,"Ok, have you seen Get Out (2017) ?",1,3,experience_inquiry,6
+119,What was the last movie you saw?,1,3,experience_inquiry,6
+606,"It is a drama, but it has some romance in it too.",1,1,credibility,6
+652,Have you seen The Avengers  (2012),1,3,experience_inquiry,6
+678,Have you ever seen Scary Movie (2000) ?,1,3,experience_inquiry,6
+692,That's great it's a great movies. Have you seen Tomb Raider (2018),1,3,experience_inquiry,6
+1044,You have plans tonight?,1,12,transparency,6
+1057,Great. Thanks. Looking for any good movies?,1,12,transparency,6
+115,Have you seen Batman  (1989),1,3,experience_inquiry,5
+125,Did you see that new Will Ferrel movie The House  (2017) ?,1,3,experience_inquiry,5
+542,"No problem! Thank you, too! :)",1,0,acknowledgment,5
+673,"Hello, have you seen the new IT movie?",1,3,experience_inquiry,5
+1063,Hey there. could I recommend a movie for you?,1,12,transparency,5
+126,Have you seen Little Miss Sunshine (2006) ?,1,3,experience_inquiry,4
+132,Have you watched Deadpool  (2016) the first one?,1,3,experience_inquiry,4
+139,Have you seen the new movies Avengers: Infinity War (2018) or Isle Of Dogs (2018) ?,1,3,experience_inquiry,4
+697,Have you seen both of those movies?,1,3,experience_inquiry,3
+675,have you ever seen Click  (2006) ?,1,3,experience_inquiry,2
+5,Good Night,1,0,acknowledgment,0
+9,Yes!,1,0,acknowledgment,0
+12,Hello,1,0,acknowledgment,0
+15,Goodbye!,1,0,acknowledgment,0
+19,Hello,1,0,acknowledgment,0
+23,Hello,1,0,acknowledgment,0
+24,hello,1,0,acknowledgment,0
+27,You're welcome.,1,0,acknowledgment,0
+30,Hello,1,0,acknowledgment,0
+31,Yes I have,1,0,acknowledgment,0
+40,hello,1,0,acknowledgment,0
+41,hello,1,0,acknowledgment,0
+43,hello,1,0,acknowledgment,0
+44,good bye,1,0,acknowledgment,0
+55,"No, Bruce Willis!",1,1,credibility,0
+58,"Seth Rogan is in it, Danny McBride",1,1,credibility,0
+68,Yes. Hot Fuzz (2007) is a VERY clever action/comedy.,1,1,credibility,0
+75,"No problem, enjoy and goodbye",1,2,encouragement,0
+105,Have you seen Kiss Kiss Bang Bang (2005),1,3,experience_inquiry,0
+106,Have you seen Avengers: Infinity War (2018),1,3,experience_inquiry,0
+111,He probably would.  How about I Know What You Did Last Summer (1997)  or Scream  (1996),1,3,experience_inquiry,0
+121,Have you seen Avengers: Infinity War (2018),1,3,experience_inquiry,0
+124,Have you seen Talladega Nights: The Ballad of Ricky Bobby (2006)  or The Hangover (2009) ?,1,3,experience_inquiry,0
+127,Have you seen Me Before You  ?,1,3,experience_inquiry,0
+136,Have you watched Ant-Man  (2015) ?,1,3,experience_inquiry,0
+145,What about Spider-Man: Homecoming (2017),1,3,experience_inquiry,0
+147,Have you seen Avengers: Infinity War (2018),1,3,experience_inquiry,0
+209,What kind of movies do you like?,1,5,opinion_inquiry,0
+218,What genre of movie do you like?,1,5,opinion_inquiry,0
+223,What kind of movies would you like to watch?,1,5,opinion_inquiry,0
+224,What kind of movies would you like to watch?,1,5,opinion_inquiry,0
+227,what kind of movies would you like to watch?,1,5,opinion_inquiry,0
+237,No I haven't.,1,6,personal_experience,0
+240,Haven‚Äö√Ñ√¥t seen that one,1,6,personal_experience,0
+264,No I havent.,1,6,personal_experience,0
+275,"I have seen ""The Good",1,6,personal_experience,0
+315,I love X-Men  (2000),1,7,personal_opinion,0
+328,Or maybe Sex and Zen (1991) ?,1,8,preference_confirmation,0
+333,Or DodgeBall: A True Underdog Story (2004) ?,1,8,preference_confirmation,0
+334,Or Truth or Dare  (2013) ?,1,8,preference_confirmation,0
+335,Or maybe Avengers: Infinity War (2018) ?,1,8,preference_confirmation,0
+338,Or Arrival  (2016) ?,1,8,preference_confirmation,0
+340,Can I recommend This Is the End (2013) ?,1,8,preference_confirmation,0
+344,Or Super Troopers 2 (2018) ?,1,8,preference_confirmation,0
+353,Or maybe Noah  (2014) ?,1,8,preference_confirmation,0
+355,Or Zack and Miri Make a Porno (2008) ?,1,8,preference_confirmation,0
+359,Or It  (2017) ?!,1,8,preference_confirmation,0
+408,or maybe you are into more slick comedy like Fifty Shades of Black (2016),1,9,rephrase_preference,0
+423,I want to see the new Ant-Man and the Wasp (2018),1,10,self_modeling,0
+442,I want to see the new Ant-Man and the Wasp (2018),1,10,self_modeling,0
+444,"Haven‚Äö√Ñ√¥t seen Rear Window, perhaps I‚Äö√Ñ√¥ll check it out",1,10,self_modeling,0
+476,Me too!!! I‚Äö√Ñ√¥m excited to watch it !,1,11,similarity,0
+490,Need some good movie?,1,12,transparency,0
+496,Are you looking for a good movie to watch?,1,12,transparency,0
+507,can i help you,1,12,transparency,0
+508,can i help you,1,12,transparency,0
+509,can i help you  with a movie,1,12,transparency,0
+510,can i help you with a movie,1,12,transparency,0
+511,can i help you with a movie,1,12,transparency,0
+512,can i help you,1,12,transparency,0
+522,do you need my help,1,12,transparency,0
+525,How can I help you today?,1,12,transparency,0
+536,Are you looking for a movie?,1,12,transparency,0
+541,Hello!,1,0,acknowledgment,0
+543,good bye,1,0,acknowledgment,0
+544,Goodbye,1,0,acknowledgment,0
+546,bye,1,0,acknowledgment,0
+547,good bye,1,0,acknowledgment,0
+548,your welcome,1,0,acknowledgment,0
+549,good bye,1,0,acknowledgment,0
+550,good bye,1,0,acknowledgment,0
+551,Hello,1,0,acknowledgment,0
+552,Yes,1,0,acknowledgment,0
+553,Good bye,1,0,acknowledgment,0
+554,hi,1,0,acknowledgment,0
+555,Ok,1,0,acknowledgment,0
+556,hi,1,0,acknowledgment,0
+558,Goodbye,1,0,acknowledgment,0
+561,hello,1,0,acknowledgment,0
+562,good bye,1,0,acknowledgment,0
+564,hello,1,0,acknowledgment,0
+568,Bye!,1,0,acknowledgment,0
+569,hello,1,0,acknowledgment,0
+570,good bye,1,0,acknowledgment,0
+573,"Thank you, good bye/",1,0,acknowledgment,0
+574,Hello,1,0,acknowledgment,0
+576,"Well, i hope i have helped",1,0,acknowledgment,0
+577,Good bye,1,0,acknowledgment,0
+579,Bye,1,0,acknowledgment,0
+580,"Thank you, good bye.",1,0,acknowledgment,0
+581,Hi I am good,1,0,acknowledgment,0
+585,Bye!,1,0,acknowledgment,0
+586,"Thank you, good bye.",1,0,acknowledgment,0
+587,hi,1,0,acknowledgment,0
+589,Hey,1,0,acknowledgment,0
+612,You should try them,1,2,encouragement,0
+640,You may like Rush Hour  (1998) .,1,2,encouragement,0
+649,Did you watch Avengers: Infinity War (2018) ?,1,3,experience_inquiry,0
+650,Did you watch Click  (2006) ?,1,3,experience_inquiry,0
+651,Did you watch It  (2017) ?,1,3,experience_inquiry,0
+654,have you seen Avengers: Infinity War (2018) ?,1,3,experience_inquiry,0
+657,And It (1990) ?,1,3,experience_inquiry,0
+659,Did you watch It  (2017) ?,1,3,experience_inquiry,0
+660,And It (1990) ?,1,3,experience_inquiry,0
+663,Did you watch Click  (2006) ?,1,3,experience_inquiry,0
+664,and The Mask (1988) ?,1,3,experience_inquiry,0
+666,Did you watch Avengers: Infinity War (2018) ?,1,3,experience_inquiry,0
+670,Have you seen Avengers: Infinity War (2018),1,3,experience_inquiry,0
+674,Have you seen it?,1,3,experience_inquiry,0
+684,Have you seen it,1,3,experience_inquiry,0
+687,Have you see The Blues Brothers  (1980) or Rush Hour  (1998) ?,1,3,experience_inquiry,0
+693,Have you seen Avengers: Infinity War (2018),1,3,experience_inquiry,0
+701,let me think,1,4,offer_help,0
+712,Let me think ..,1,4,offer_help,0
+717,let me think,1,4,offer_help,0
+729,What kind of movies do you like?,1,5,opinion_inquiry,0
+735,Tell me what kind of movies do you like?,1,5,opinion_inquiry,0
+737,Tell me what kind of movies do you like?,1,5,opinion_inquiry,0
+740,What kind of movies do you like?,1,5,opinion_inquiry,0
+755,Tell me what kind of movies would you like to watch?,1,5,opinion_inquiry,0
+764,"I'm great thanks, What kind of movies do you like?",1,5,opinion_inquiry,0
+778,i just watched Avengers: Infinity War (2018),1,6,personal_experience,0
+790,i just watched Black Panther (2018)  and i loved it,1,6,personal_experience,0
+816,I haven‚Äö√Ñ√¥t seen it yet,1,6,personal_experience,0
+831,i hope i have helped,1,7,personal_opinion,0
+870,Tell me what would you like to watch?,1,8,preference_confirmation,0
+871,As Man of Steel  (2013) ?,1,8,preference_confirmation,0
+881,The Sound of Music  (1965) ?,1,8,preference_confirmation,0
+883,Or Sherlock Holmes  (2010) ?,1,8,preference_confirmation,0
+886,And Coco  (2017) ?,1,8,preference_confirmation,0
+889,Or Beauty and the Beast  (2017) ?,1,8,preference_confirmation,0
+892,Maybe 12 Angry Men  (1957) and The Dark Knight  (2008) ?,1,8,preference_confirmation,0
+897,So you like action?,1,8,preference_confirmation,0
+904,Or Daylight  (1996) ?,1,8,preference_confirmation,0
+984,I do!,1,11,similarity,0
+987,Me too,1,11,similarity,0
+1013,Yes i think so,1,11,similarity,0
+1037,Is there anything else I can help you with?,1,12,transparency,0
+1046,Looking for a good movie?,1,12,transparency,0
+1047,Looking for a good movie?,1,12,transparency,0
+1048,Looking for a good movie?,1,12,transparency,0
+1051,Hello there. Looking for a good movie?,1,12,transparency,0
+1052,Hello there. Looking for a good movie?,1,12,transparency,0
+1053,Looking for a good movie?,1,12,transparency,0
+1055,I‚Äö√Ñ√¥m well. Looking for a good movie?,1,12,transparency,0
+1062,"Hey there, can I recommend a movie for you?",1,12,transparency,0
+1064,Hey there. Can I recommend a movie for you?,1,12,transparency,0
